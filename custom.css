@@ -1,0 +1,24 @@
+/* css styles */
+
+/*-- scss:defaults --*/
+$toc-color: #145DA0;
+
+/* Unvisited links */
+a:link {
+    text-decoration: none;
+  }
+  
+  /* Visited links */
+  a:visited {
+    text-decoration: none;
+  }
+  
+  /* Hovered links */
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Clicked links */
+  a:active {
+    text-decoration: none;
+  }

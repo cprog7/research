@@ -1,0 +1,68 @@
+---
+title: "Teaching"
+---
+
+Teaching responsibilities in the B.Sc. *Political Science* program at Technical University of Munich (TUM, 2017–2020) and in the M.A. *Digital Methods in the Humanities and Cultural Studies* program at Johannes Gutenberg University of Mainz (JGU, from 2022) in both analogue and virtual formats.
+
+## Graduate courses
+
+### A beginner’s guide to historical network research
+
+**Winter School at IEG**, Winter 2022/23
+
+In this (fully online) [winter school](https://ieg-dhr.github.io/hnr-winterschool/) (co-taught with [Dr. Demival Vasques Filho](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1)), we provided a guide for graduate students and early career researchers interested in the study of social networks with a special focus on historical research questions. This four day course covered the fundamentals of network anaylsis methods and their underlying theories, the history of historical network research, and covered pitfals in and potentials of network research for the historical studies. We offered hands-on exercises in Python using [Python::NetworkX](https://networkx.org) in [Jupyter Notebooks](https://jupyter.org). The winter school was complemented by talks by [Dr. Henrike Rudolph](https://www.sinologie-goettingen.de/seminar/person/dr-henrike-rudolph/) (GAU, GER) on research designs and [Dr. Martin Grandjean](https://www.martingrandjean.ch/) (UNIL, SUI) on network visualization. [Prof. Dr. David Zbíral](https://www.muni.cz/en/people/52251-david-zbiral) (MUNI, CZ) elaborated in a public keynote on his work in the [DISSINET](https://dissinet.cz/) project.
+
+
+### Natural Language Processing
+
+**Seminar at JGU**, Winter 2022/23
+
+In this seminar (co-taught with [Dr. Demival Vasques Filho](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1)), we covered the fundamentals of natural language processing (NLP) utilizing [GitHub](https://github.com/) and [Jupyter Notebooks](https://jupyter.org). The course covered in hands-on exercises in text processing with base Python, identifying linguist patterns with [Python:SpaCy](https://spacy.io) including pattern matching, sentiment analysis, named entity recognition (NER), and topic modeling. In the course, we discussed how to reflect working with digital sources, and best practices in algorithmic criticism.
+
+## Undergraduate courses
+
+### Applied Text Analysis
+
+**Seminar at TUM**, Summer 2019, 2020
+
+In this seminar (co-taught with then [Dr. Mirco Schönfeld](https://mircoschoenfeld.de/)), we introduced text analysis methods  in hands-on exercises with [R](https://www.r-project.org/) and [R-Studio](https://posit.co/), covering named entity recognition, sentiment analysis, and topic modeling, and their critical application in [R::quanteda](http://quanteda.io/).
+
+### Introduction to the Digital Humanities
+
+**Seminar at TUM**, Summer 2019, 2020
+
+In this seminar, I provided an introducting to the vast field of the Digital Humanities, covering the definition, digitization, digitalization, basics of text mining, network research and geographical analysis, digital source criticism and data in the humanities, digital literacy, and algorithm criticism.
+
+### Computational Social Science
+
+**Guest Lectures at TUM**, Winter 2018/19, 2019/20
+
+In this seminar, I taught in guest-lectures on the topic of qualitative text analysis and the hermeneutics of analogue and digital source criticism.
+
+### Complex Methods
+
+**Exercise Course at TUM**, Summer 2018
+
+In this exercise courses, I taught hands-on exercises in complex methods with [R](https://www.r-project.org/) and [R-Studio](https://posit.co/) covering the fundamentals in network research, diffusion models, and simulation.
+
+### Methods of Empirical Social Science
+
+**Lecture at TUM**, Winter 2019/20*
+
+In this lecture (co-taught with [Prof. Dr. Jürgen Pfeffer](http://www.pfeffer.at)), we provided the fundament insights on empirical social science, covering qualitative methodologies, survey and interview methods, experiments, and the fundamentals of statistics such as statistical significance, t.tests, standard deviations, correlation, and regression.
+
+### Methods of Empirical Social Science
+
+**Exercise Course at TUM**, Winter 2017/18, 2018/19, 2019/20, Summer 2018, 2019
+
+In this exercise courses, I taught the fundamentals of empirical social science in hands-on exercises in [R](https://www.r-project.org/) and [R-Studio](https://posit.co/) correspondening to the contents of the lecture including visualization techniques introduced in [R::ggplot2](https://ggplot2.tidyverse.org/) and the [R::Shiny](https://shiny.rstudio.com/) application.
+
+### Programming in R for Social Scientists
+
+**Exercise Course at TUM**, Winter 2017/18, 2018/19, 2019/20*
+
+In this exercise course, I taught our students the fundamentals of the statisctical computing software [R](https://www.r-project.org/) and [R-Studio](https://posit.co/) covering data processing, plotting, and various data aggregation methods.
+   
+
+
+

@@ -1,0 +1,44 @@
+---
+title: "Talks"
+---
+
+07/2023 Becoming the Digital Humanities as discourse(s) of subjectivation, ADHO Digital Humanities Conference 2023 “Collaboration as Opportunity” (DH2023), Graz.
+
+05/2023 Historische Netzwerkforschung und ihre Potentiale, Invited Talk at Workshop “Forschungsstand und -perspektiven auf die Überlieferung des Vieweg-Verlags,” UB Braunschweig.
+
+04/2023 Network Models and Computational History. Analysing a Linked Open Data network, Invited Keynote at PIMO COST 04/2023 Action Workshop “Conceptual and Social Networks for Movements of People across the Mediterranean Basin. Digital Methods and Application of Computational Tools and for Modelling, Analysis and Representation of Migration Phenomena.” Faculty of Humanities and Social Sciences, University of Rijeka, Croatia.
+
+11/2022 A (not so) short history of HNR. On the evolution of thinking about networks, DH Lab Winter School “A beginner’s guide to historical network research,” IEG Mainz (virtual).
+
+03/2022 Computational Analysis of Political Judiciary: Models, Trials, and Networks, Forschungskolloquium at Leibniz Institute of European History Mainz (virtual).
+
+02/2022 LaTeX, Overleaf, and collaborative writing for academics, 60’ of DH at Leibniz Institute of European History Mainz (virtual).
+
+01/2022 Modelling Political Trials as Networks. Perks, Pitfalls, and Possibilities, Offenes Forschungskolloquium Digital History (Prof. Dr. Torsten Hiltmann), Humboldt University of Berlin (virtual).
+
+10/2021 Network Models and Configurations to Conviction, Invited Talk at HNR Lunch Lecture (virtual). [https://www.youtube.com/watch?v=5WH1-W2VMYk](https://www.youtube.com/watch?v=5WH1-W2VMYk).
+
+08/2021 Narratives of Differences and Political Judiciary in the Austrian Corporate State (1934–38), Poster Presentation, 1st Legal Tech Munich Summer School, Technical University of Munich.
+
+05/2021 Historical Network Research in a Nutshell: On courts, intellectuals, and the perks of networks, Seminar “Digital History” (Dr. Ute Hasen ̈ohrl) at Innsbruck University (virtual).
+
+03/2021 A mixed methods approach to political judiciary, Conference “Digital Methods and Resources in Legal History” (DLH2021), Max Planck Institute for Legal History and Legal Theory, Frankfurt am Main (virtual). Postponed from 2020 to 2021. ¢[https://www.lhlt.mpg.de/dlh2021](https://www.lhlt.mpg.de/dlh2021).
+
+12/2020 A Longitudinal Analysis of a Social Network of Intellectual History, IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM) 2020, The Hague, Netherlands (virtual).
+
+07/2020 Analyzing Political Trials during the Austrian Authoritative Rule using a Network Approach, SUNBELT 2020 Virtual Conference.
+
+10/2019 Historische Netzwerkforschung und Politische Justiz am Beispiel Wien 1935 (Diss.), Oberseminar, Research Institute for the History of Technology and Science at the German Museum Munich.
+
+09/2019 Political Judiciary in the Corporate State of Austria, 4th European Conference on Social Networks (EUSN), Zürich.
+
+06/2019 Networks of Political Judiciary in the Corporate State: The provincial courts of Vienna in 1935, Poster Presentation, 2nd Heidelberg Computational Humanities Summer School “Mixed Methods in the Making” (HCH), Heidelberg University.
+
+05/2019 Disseminating Political Judiciary with ERGM, Kolloquium (Prof. Dr. Christoph Stadtfeld), ETH Zürich.
+
+05/2019 Networks of Political Judiciary in the Corporate State in Austria, 13th Workshop His- torical Network Research “Networks across Time and Space. Methodological Challenges and Theoretical Concerns of Network Research in the Humanities.” Akademie der Wissenschaften und der Literatur Mainz.
+
+03/2019 Gerichtsakten als Quelle historischer Netzwerkanalyse zur Politischen Verfolgung im Österreichischen Ständestaat, Workshop “Von Chancen und Herausforderungen.” Werkstattgespräche zur Historischen Netzwerkanalyse, FWF-DACH-Projekt “Issues with Europe”, Forschungszentrum Digital Humanities at Innsbruck University.
+
+06/2018 Networks of Political Prosecution, XXXVIII SUNBELT Conference, Utrecht, Nether- lands.
+

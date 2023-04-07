@@ -1,0 +1,102 @@
+---
+title: "Research"
+format: html
+---
+
+In my dissertation, I discussed how to ["Combine Network Research and Computational Methods on Historical Research Questions and its Implications for the Digital Humanities"](http://mediatum.ub.tum.de/?id=1624881), reflecting on the genesis of the digital humanities (DH) and social and historical network research (SNR and HNR), the theorization and impact of DH, as well as the requirements of a multimodal literacy incorporating digital and computational competences, algorithm and tool criticism, and the changed epistemologies of working with the digital. There, I proposed modeling as the underlying epistemological framework. With the framework of modeling, my thesis re-conceptualizesd computational methodologies for historical research questions and identified modeling as an inherent concept within the historical studies, i.e. the historical narrative as a best-fit model to explain the how and why of history and periodization as models of time-scales as a model or construct of analysis to sharpen focus, and the use of networks as epistemic tools.
+In the thesis, I evaluated the limitations and implications of its epistemological and ontological changes based on two case studies: on the extent of political judiciary in the Austrian "Corporate State", and on the structural analysis of influence networks of intellectuals.
+
+An overview of my publications are recorded at <i class="ai ai-orcid" role="img"></i> [0000-0002-6178-7332](https://orcid.org/0000-0002-6178-7332).
+
+
+## Analysing political judiciary
+**Tags:** Network Research, Cluster Analysis, Structural Analysis, Statistics, NLP, Text Analysis, Data Analysis, OCR
+
+### Network structures of political judiciary
+In ["Configuration to Conviction. Network structures of political judiciary in the Austrian Corporate State"](https://doi.org/10.1016/j.socnet.2021.03.001), I conceptionalized court records as networks (compare to @fig-trialnet), which allowed me to analyze them structurally. Goal of the analysis was to investigate the extent of political judiciary in the transformed system of the so-called "Corporate State" of Austria. I evaluated differences in the legal prosecution of the political opposition based on over 1800 court trials from 1935 processed at the Viennese provincial courts.
+
+Every subsequent analysis I did in [R](https://www.r-project.org/) and [R-Studio](https://posit.co/) at first, and then fully switched to [Python](https://www.python.org), which allows object-based programming and version-control via [Anaconda](https://www.anaconda.com) and [GitHub](https://github.com/).
+
+::: {#fig-trialnet}
+
+<img src="./figs/trial-net.png" alt="Network of Trials in Petz & Pfeffer 2021" align="left" width="100%" height="100%" title="Network of Trials">
+
+*(In [Petz and Pfeffer 2021](https://doi.org/10.1016/j.socnet.2021.03.001), Fig. 1) The figure on the left shows a multimodal sample network of 88 court proceedings, featuring 201 defendants in 204 cases with verdicts, 55 judges and 27 prosecutors. An edge equals a conviction. 
+On the right: Figure focusing on one defendant in a (randomly chosen) single case’s court trial interpreted as a network. Layout algorithm used: Fruchterman-Rheingold in [R::igraph](https://r.igraph.org). *
+:::
+
+Combining a formalized network methodology and a quantitative assessment of frequencies and distributions with a qualitative contextualization, I could show different practices of political judiciary at court and specialized strategies to prosecute the political opposition, resulting in a clear bias against left-wing groups and a relative leniency in the conviction of National Socialists based on the evolution of charges in the courts’ actions (compare to @fig-cooc).  
+
+::: {#fig-cooc}
+
+<img src="./figs/cooc-nets.png" alt="Cooccurrence Networks in Petz & Pfeffer 2021" align="left" width="100%" height="100%" title="Cooccurrence Networks">
+
+*(In [Petz and Pfeffer 2021](https://doi.org/10.1016/j.socnet.2021.03.001), Tab. 7) Networks of co-occurring offenses of members of left- and right-wing political groups. Circular Layout Algorithm used in [Python::NetworkX](https://networkx.org). *
+:::
+
+A multimodal network approach combining statistics, a spectral cluster analysis (@fig-cluster) and structural analysis, revealed key players and cooperation of judges and prosecutors which accounted for harsher sentences.
+
+::: {#fig-cluster}
+
+<img src="/figs/cluster-analysis.png" alt="Cluster Analysis in Petz & Pfeffer 2021" align="left" width="100%" height="100%" title="Cluster Analysis">
+
+*(In [Petz and Pfeffer 2021](https://doi.org/10.1016/j.socnet.2021.03.001), Fig. 5) Network of judges and prosecutors grouped based on their trials’ court house. An edge symbolizes collaboration in the same processes. A spectral cluster analysis revealed three clusters, as represented in node colors.*
+:::
+
+Finally, in the paper I argue that the system of control over the judiciary and over the political opposition was already crumbling in the Austrian capital in 1935, even before the ‘‘Anschluss" to NS-Germany in 1938. For the full paper, follow this [link](https://doi.org/10.1016/j.socnet.2021.03.001).
+
+
+### Constructing political criminality
+
+My current project extends on my previous work, and examines the various constructions of political criminality at court during the so-called "Corporate State" (1933/34--1938). There, I study the transformation from democracy to autocracy.
+I am examining e.g., linguistic strategies towards Social Democratic, Communist, and National Socialist suspects in the statements of police, prosecutors, and judges within the court proceedings. Questions of political and political-confessional marginalisation and (acceptable) deviancy at court will be of particular interest. 
+
+Methodologically, the project combines quantitative, computational, digital and qualitative methods in the sense of a multi-methodological embedded digital humanities framework. In this project, I am employing Optical Character recognition (OCR) as well as text and data mining methods (NLP and statistics) in Python in order to analyze court recrods from the years 1933--1938. The project thus contributes to the field of computational history. This work is currently under progress.
+
+
+
+## A DH framework for the history of intellectuals
+
+**Tags:** Network Research, Structural Analysis, Statistics, Community Detection, Centralities, Knowledge Brokerage, Temporal Analysis, Life-Cycle Events, Diffusion
+
+In this joint project with my colleague [Dr. Raji Ghawi](https://scholar.google.com/citations?user=O_O0GnsAAAAJ&hl=en), we studied a big Linked Open Data set of influence relations between intellectuals, which we extracted from [YAGO](https://yago-knowledge.org/downloads/yago-3) via an SQL query.
+
+We contrued the history of intellectuals as a long-spanning entangled web of influences, interdependencies, and inspirations by means of a formalized network approach, which we analyzed in [Python](https://www.python.org) and [Jupyter Notebooks](https://jupyter.org). 
+
+In ["Analysis of a Social Network of Intellectual Influence"](https://doi.org/10.1109/SNAMS.2019.8931821), we proposed such a approach, and operationalized the importance of scholars based on their structural position (i.a., centralities) in the influence networks.
+
+In ["A Longitudinal Analysis of a Social Network of Intellectual Influence"](https://doi.org/10.1109/ASONAM49781.2020.9381318), we introduced a longitudinal perspective on the hitherto static networks, and studied the time-scliced network projections. This allowed us to re-evaluate, which scholars were most influential based on their structural position, such as centralities and knowledge-brokerage roles (e.g., @fig-heatmap).
+
+::: {#fig-heatmap}
+
+<img src="./figs/freq-dist-heatmap.png" alt="Frequency distribution heatmap in Petz et al 2022" align="left" width="100%" height="100%" title="Frequency distribution heatmap">
+
+*(In [Petz et al 2022](https://doi.org/10.1109/ASONAM49781.2020.9381318), Fig. 4) Frequency distribution of scholars per Region–Era (left), per Era–Discipline (top), and per Region–Discipline (center). Read like: Frequency of scholars with characteristics row and column.*
+:::
+
+::: {#fig-dynamic}
+
+<img src="./figs/evo-dyn-communities.png" alt="Evolution of dynamic communities in Petz et al 2022" align="center" width="70%" height="70%" title="Evolution of dynamic communities">
+
+*(In [Petz et al 2022](https://doi.org/10.1109/ASONAM49781.2020.9381318), Fig. 9) Evolution of dynamic communities with more than 3 members over eras, starting with Antiquity from the center outwards. The size of nodes represents the amount of memberships.*
+:::
+
+In ["Tracking the Evolution of Communities in a Social Network of Intellectual Influences"](https://doi.org/10.25517/jhnr.v7i1.146), we aimed to identify schools of thought in these intellectual networks by detecting communities, and thus structurally analyzed and evaluated how these communities formed and developed in time, tracking their compositon and characterized the structural patterns of their dynamic evolution (e.g., @fig-dynamic). We contextualized the changes in selected network structures in order to establish the merit of this method for a new perspective on the history of intellectuals, their influences, and their ideas (e.g., @fig-medi).
+
+::: {#fig-medi}
+
+<img src="./figs/medieval-com.png" alt="Medieval communities in Petz et al 2022" align="left" width="100%" height="100%" title="Medieval communities">
+
+*(In [Petz et al 2022](https://doi.org/10.1109/ASONAM49781.2020.9381318), Fig. 5) Medieval period influence networks of two sub-samples of scholars located in AR and EU, respectively.*
+:::
+
+
+
+
+
+
+
+
+
+
+

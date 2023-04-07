@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "cprog7"
+  page-navigation: true
+  favicon: "networkicon.png"
+  twitter-card: true
+
+  navbar:
+    search: true
+    pinned: true
+    title: false
+    logo: "networkicon.png"
+    logo-alt: "CP" 
+    left:
+      - href: index.qmd
+        text: "About"
+      - href: research.qmd
+        text: "Research"
+      - href: talks.qmd
+        text: "Talks"
+      - href: teaching.qmd
+        text: "Teaching"
+    right:
+      - icon: envelope
+        href: mailto:petz@ieg-mainz.de
+  page-footer: 
+    center:
+      - icon: mastodon
+        href: https://fedihum.org/@cprog7
+      - icon: twitter
+        href: https://twitter.com/cprog7
+      - icon: github
+        href: https://github.com/cprog7
+      - text: <i class="ai ai-orcid" role="img"></i>
+        href: https://orcid.org/0000-0002-6178-7332
+      - icon: envelope
+        href: mailto:petz@ieg-mainz.de
+    right: "© 2023 Cindarella Petz" 
+
+
+format:
+  html:
+    theme: 
+    - Simplex
+    - custom.css
+    css: 
+    - styles.css
+    - https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css
+    toc: true
+    linkcolor: "#145DA0"
+
+  
+
+editor: visual
+
+
