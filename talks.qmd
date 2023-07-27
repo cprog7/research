@@ -2,11 +2,13 @@
 title: "Talks"
 ---
 
-07/2023 Becoming the Digital Humanities as discourse(s) of subjectivation, ADHO Digital Humanities Conference 2023 “Collaboration as Opportunity” (DH2023), Graz.
+07/2023 Becoming the Digital Humanities as discourse(s) of subjectivation, ADHO Digital Humanities Conference 2023 “Collaboration as Opportunity” (DH2023), Graz, Austria.
+
+07/2023 On the Shoulders of Giants. Pitfalls and challenges of a LOD network of intellectual influences. Invited Talk at ["Network Science meets Digital History and Prosopography"](https://sites.google.com/view/nsdhp2023/home-page) Satellite Workshop at NetSci 2023, Vienna, Austria.
 
 05/2023 Historische Netzwerkforschung und ihre Potentiale, Invited Talk at Workshop “Forschungsstand und -perspektiven auf die Überlieferung des Vieweg-Verlags,” UB Braunschweig.
 
-04/2023 Network Models and Computational History. Analysing a Linked Open Data network, Invited Keynote at PIMO COST 04/2023 Action Workshop “Conceptual and Social Networks for Movements of People across the Mediterranean Basin. Digital Methods and Application of Computational Tools and for Modelling, Analysis and Representation of Migration Phenomena.” Faculty of Humanities and Social Sciences, University of Rijeka, Croatia.
+04/2023 Network Models and Computational History. Analysing a Linked Open Data network, Invited Keynote at PIMO COST 04/2023 Action Workshop [“Conceptual and Social Networks for Movements of People across the Mediterranean Basin. Digital Methods and Application of Computational Tools and for Modelling, Analysis and Representation of Migration Phenomena.”](https://cji.uniri.hr/pimo/) Faculty of Humanities and Social Sciences, University of Rijeka, Croatia.
 
 11/2022 A (not so) short history of HNR. On the evolution of thinking about networks, DH Lab Winter School “A beginner’s guide to historical network research,” IEG Mainz (virtual).
 
@@ -14,15 +16,15 @@ title: "Talks"
 
 02/2022 LaTeX, Overleaf, and collaborative writing for academics, 60’ of DH at Leibniz Institute of European History Mainz (virtual).
 
-01/2022 Modelling Political Trials as Networks. Perks, Pitfalls, and Possibilities, Offenes Forschungskolloquium Digital History (Prof. Dr. Torsten Hiltmann), Humboldt University of Berlin (virtual).
+01/2022 Modelling Political Trials as Networks. Perks, Pitfalls, and Possibilities, [Offenes Forschungskolloquium Digital History](https://dhistory.hypotheses.org/1080) (Prof. Dr. Torsten Hiltmann), Humboldt University of Berlin (virtual).
 
-10/2021 Network Models and Configurations to Conviction, Invited Talk at HNR Lunch Lecture (virtual). [https://www.youtube.com/watch?v=5WH1-W2VMYk](https://www.youtube.com/watch?v=5WH1-W2VMYk).
+10/2021 Network Models and Configurations to Conviction, Invited Talk at HNR Lunch Lecture (virtual). [Link to lecture](https://www.youtube.com/watch?v=5WH1-W2VMYk).
 
 08/2021 Narratives of Differences and Political Judiciary in the Austrian Corporate State (1934–38), Poster Presentation, 1st Legal Tech Munich Summer School, Technical University of Munich.
 
 05/2021 Historical Network Research in a Nutshell: On courts, intellectuals, and the perks of networks, Seminar “Digital History” (Dr. Ute Hasen ̈ohrl) at Innsbruck University (virtual).
 
-03/2021 A mixed methods approach to political judiciary, Conference “Digital Methods and Resources in Legal History” (DLH2021), Max Planck Institute for Legal History and Legal Theory, Frankfurt am Main (virtual). Postponed from 2020 to 2021. ¢[https://www.lhlt.mpg.de/dlh2021](https://www.lhlt.mpg.de/dlh2021).
+03/2021 A mixed methods approach to political judiciary, Conference “Digital Methods and Resources in Legal History” (DLH2021), Max Planck Institute for Legal History and Legal Theory, Frankfurt am Main (virtual). Postponed from 2020 to 2021. [https://www.lhlt.mpg.de/dlh2021](https://www.lhlt.mpg.de/dlh2021).
 
 12/2020 A Longitudinal Analysis of a Social Network of Intellectual History, IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM) 2020, The Hague, Netherlands (virtual).
 

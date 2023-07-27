@@ -6,6 +6,13 @@ Teaching responsibilities in the B.Sc. *Political Science* program at Technical 
 
 ## Graduate courses
 
+### Network Analysis with Python and Jupyter Notebooks (and Quarto)
+
+**Workshop at GrapHNR2023**, Summer 2023
+
+In this [workshop](https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2023/programme#workshop-1) (assisted by [Dr. Aline Deicke](https://www.adwmainz.de/mitarbeiterinnen/profil/prof-dr-aline-deicke.html) and [Elena Suarez Cronauer](https://www.adwmainz.de/mitarbeiterinnen/profil/elena-suarez-cronauer.html)), we gave an introduction to network analysis creating networks in [Python::NetworkX](https://networkx.org) in [Jupyter Notebooks](https://jupyter.org), discussed best practices, and reflected critically on our methodology. Additionally, we introduced the pipeline [Quarto](https://quarto.org) and highlighted its use for publishing reproducible research.
+
+
 ### A beginner’s guide to historical network research
 
 **Winter School at IEG**, Winter 2022/23
@@ -47,9 +54,9 @@ In this exercise courses, I taught hands-on exercises in complex methods with [R
 
 ### Methods of Empirical Social Science
 
-**Lecture at TUM**, Winter 2019/20*
+**Lecture at TUM**, Winter 2019/20
 
-In this lecture (co-taught with [Prof. Dr. Jürgen Pfeffer](http://www.pfeffer.at)), we provided the fundament insights on empirical social science, covering qualitative methodologies, survey and interview methods, experiments, and the fundamentals of statistics such as statistical significance, t.tests, standard deviations, correlation, and regression.
+In this lecture (co-taught with [Prof. Dr. Jürgen Pfeffer](http://www.pfeffer.at)), we provided fundamental insights on empirical social science, covering qualitative methodologies, survey and interview methods, experiments, and the fundamentals of statistics such as statistical significance, t.tests, standard deviations, correlation, and regression.
 
 ### Methods of Empirical Social Science
 
@@ -59,7 +66,7 @@ In this exercise courses, I taught the fundamentals of empirical social science 
 
 ### Programming in R for Social Scientists
 
-**Exercise Course at TUM**, Winter 2017/18, 2018/19, 2019/20*
+**Exercise Course at TUM**, Winter 2017/18, 2018/19, 2019/20
 
 In this exercise course, I taught our students the fundamentals of the statisctical computing software [R](https://www.r-project.org/) and [R-Studio](https://posit.co/) covering data processing, plotting, and various data aggregation methods.
    

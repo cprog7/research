@@ -1,13 +1,13 @@
 ---
 title: "Dr. Cindarella Petz"
-subtitle: "Digital History, Historical Network Research, Text Analysis, Digital Humanities"
+subtitle: "Digital History, Historical Network Research, Text Analysis, Digital Humanities, Computational History"
 ---
 
 I am a historian working at the intersection of the humanities and computer science. 
-My research interests centre on computational methods and the epistemological implications of the digital. In my research, I reframe historical research questions with the means of computational and multi-methodological approaches, bridiging quantitative, qualitative, digital, and computational methodologies, and critically reflect their application. I consider digital literacy and computational competencies, including statistics, data modeling, digital source criticism, and tool and algorithm criticism, as key skills of today’s humanities scholarship.
+My research interests center on computational methods and the epistemological implications of the digital. In my research, I reframe historical research questions with the means of computational and multi-methodological approaches, bridging quantitative, qualitative, digital, and computational methodologies, and critically reflect their application. I consider digital literacy and computational competencies, including statistics, data modeling, digital source criticism, and tool and algorithm criticism, as key skills of today’s humanities scholarship.
 
-In my current project as [postdoctoral researcher](https://www.ieg-mainz.de/en/institute/people/petz) at [Leibniz Institute of European History](https://www.ieg-mainz.de/), I examine historical court records computationally on the extend of political judiciary and the transformation from democracy to autocracy in the field of digital legal history.
+In my current project as [postdoctoral researcher](https://www.ieg-mainz.de/en/institute/people/petz) at [Leibniz Institute of European History](https://www.ieg-mainz.de/), I examine historical court records computationally on the extent of political judiciary, and the transformation of the former Austrian democracy to an autocracy (1934--38) in the field of digital legal history.
 
-I am part of the editorial team at [Journal of Historical Network Research (JHNR)](https://jhnr.uni.lu/index.php/jhnr/about/editorialTeam)‚ and co-convenor at [AG "Graphen und Netzwerke"](https://dig-hum.de/ag-graphen-netzwerke>) of the [DHd](https://dig-hum.de/). As part of the Local Organizing and Program Committe, we are currently organizing the [GrapHNR Conference](https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2023) in Mainz in July 18 -- 21, 2023.
+I am part of the editorial team at [Journal of Historical Network Research (JHNR)](https://jhnr.uni.lu/index.php/jhnr/about/editorialTeam)‚ and co-convenor of [AG "Graphen und Netzwerke"](https://dig-hum.de/ag-graphen-netzwerke>) of the [DHd](https://dig-hum.de/). As part of the Local Organizing and Program Committe, we organized the [GrapHNR Conference](https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2023) in Mainz in July 18 -- 21, 2023.
 
 <!--This website was created using [Quarto](https://quarto.org/docs/websites).-->
