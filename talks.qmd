@@ -12,7 +12,7 @@ title: "Talks"
 
 04/2023 [Network Models and Computational History. Analysing a Linked Open Data network](https://cji.uniri.hr/pimo/), Invited Keynote at PIMO COST 04/2023 Action Workshop “Conceptual and Social Networks for Movements of People across the Mediterranean Basin. Digital Methods and Application of Computational Tools and for Modelling, Analysis and Representation of Migration Phenomena.” Faculty of Humanities and Social Sciences, University of Rijeka, Croatia.
 
-11/2022 A (not so) short history of HNR. On the evolution of thinking about networks, DH Lab Winter School “A beginner’s guide to historical network research,” IEG Mainz (virtual).
+11/2022 [A (not so) short history of HNR. On the evolution of thinking about networks](https://ieg-dhr.github.io/hnr-winterschool/), DH Lab Winter School “A beginner’s guide to historical network research,” IEG Mainz (virtual).
 
 03/2022 Computational Analysis of Political Judiciary: Models, Trials, and Networks, Forschungskolloquium at Leibniz Institute of European History Mainz (virtual).
 
