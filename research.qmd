@@ -6,7 +6,7 @@ format: html
 In my dissertation, I discussed how to ["Combine Network Research and Computational Methods on Historical Research Questions and its Implications for the Digital Humanities"](http://mediatum.ub.tum.de/?id=1624881), reflecting on the genesis of the digital humanities (DH) and social and historical network research (SNR and HNR), the theorization and impact of DH, as well as the requirements of a multimodal literacy incorporating digital and computational competences, algorithm and tool criticism, and the changed epistemologies of working with the digital. There, I proposed modeling as the underlying epistemological framework. With the framework of modeling, my thesis reconceptualizesd computational methodologies for historical research questions and identified modeling as an inherent concept within the historical studies, i.e. the historical narrative as a best-fit model to explain the how and why of history and periodization as models of time-scales as a construct of analysis to sharpen focus, and the use of networks as epistemic tools.
 In my dissertation, I evaluated the limitations and implications of its epistemological and ontological changes based on two case studies: on the extent of political judiciary in the Austrian "Corporate State", and on the structural analysis of influence networks of intellectuals.
 
-An overview of my publications are recorded at <i class="ai ai-orcid" role="img"></i> [0000-0002-6178-7332](https://orcid.org/0000-0002-6178-7332).
+An overview of my publications is recorded at <i class="ai ai-orcid" role="img"></i> [0000-0002-6178-7332](https://orcid.org/0000-0002-6178-7332).
 
 
 ## Analysing political judiciary
@@ -91,7 +91,9 @@ In ["Tracking the Evolution of Communities in a Social Network of Intellectual I
 :::
 
 
+## Green DH and sustainability
 
+Increasingly, I am interested in the field of Green DH, the impact of DH and adjacent developments in computational methods (such as LLMs; "Thirsty AI") on resource overconsumption, and questions of sustainability and reusability of research data. In [this blogpost](https://dhlab.hypotheses.org/4273), I outlined some of its ramifications. 
 
 
 
