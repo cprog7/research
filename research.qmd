@@ -9,10 +9,9 @@ In my dissertation, I evaluated the limitations and implications of its epistemo
 An overview of my publications is recorded at <i class="ai ai-orcid" role="img"></i> [0000-0002-6178-7332](https://orcid.org/0000-0002-6178-7332).
 
 
-## Analysing political judiciary
-**Tags:** Network Research, Cluster Analysis, Structural Analysis, Statistics, NLP, Text Analysis, Data Analysis, OCR
+## Analysing network structures of political judiciary
+**Tags:** Network Research, Cluster Analysis, Structural Analysis, Statistics, Data Analysis
 
-### Network structures of political judiciary
 In ["Configuration to Conviction. Network structures of political judiciary in the Austrian Corporate State"](https://doi.org/10.1016/j.socnet.2021.03.001), I conceptionalized court records as networks (compare to @fig-trialnet), which allowed me to analyze them structurally. Goal of the analysis was to investigate the extent of political judiciary in the transformed system of the so-called "Corporate State" of Austria. I evaluated differences in the legal prosecution of the political opposition based on over 1800 court trials from 1935 processed at the Viennese provincial courts.
 
 Every subsequent analysis I did in [R](https://www.r-project.org/) and [R-Studio](https://posit.co/) at first, and then fully switched to [Python](https://www.python.org), which allows object-based programming and version-control via [Anaconda](https://www.anaconda.com) and [GitHub](https://github.com/).
@@ -46,12 +45,16 @@ A multimodal network approach combining statistics, a spectral cluster analysis 
 Finally, in the paper I argue that the system of control over the judiciary and over the political opposition was already crumbling in the Austrian capital in 1935, even before the ‘‘Anschluss" to NS-Germany in 1938. For the full paper, follow this [link](https://doi.org/10.1016/j.socnet.2021.03.001).
 
 
-### Constructing political criminality
+## Construction of political criminality
+**Tags:** NLP, Text Analysis, Statistics, OCR
+
 
 My current project extends on my previous work, and examines the various constructions of political criminality at court during the so-called "Corporate State" (1933/34--1938). There, I study the transformation from democracy to autocracy.
 I am examining e.g., linguistic strategies towards Social Democratic, Communist, and National Socialist suspects in the statements of police, prosecutors, and judges within the court proceedings. Questions of political and political-confessional marginalisation and (acceptable) deviancy at court will be of particular interest. 
 
-Methodologically, the project combines quantitative, computational, digital and qualitative methods in the sense of a multi-methodological embedded digital humanities framework. In this project, I am employing Optical Character recognition (OCR) as well as text and data mining methods (NLP and statistics) in Python in order to analyze court recrods from the years 1933--1938. The project thus contributes to the field of computational history. This work is currently under progress.
+Methodologically, the project combines quantitative, computational, digital and qualitative methods in the sense of a multi-methodological embedded digital humanities framework. In this project, I am employing Optical Character recognition (OCR) as well as text and data mining methods (NLP and statistics) in Python in order to analyze court recrods from the years 1933--1938. The project thus contributes to the field of computational history. 
+
+This work is currently under progress.
 
 
 
@@ -94,6 +97,8 @@ In ["Tracking the Evolution of Communities in a Social Network of Intellectual I
 ## Green DH and sustainability
 
 Increasingly, I am interested in the field of Green DH, the impact of DH and adjacent developments in computational methods (such as LLMs; "Thirsty AI") on resource overconsumption, and questions of sustainability and reusability of research data. In [this blogpost](https://dhlab.hypotheses.org/4273), I outlined some of its ramifications. 
+
+
 
 
 
