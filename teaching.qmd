@@ -1,12 +1,14 @@
 ---
-title: "Teaching"
+title: "Teaching Agenda"
 ---
 
-Teaching responsibilities in the B.Sc. *Political Science* program at Technical University of Munich (TUM, 2017–2020) and in the M.A. *Digital Methods in the Humanities and Cultural Studies* program at Johannes Gutenberg University of Mainz (JGU, from 2022) in both analogue and virtual formats, as well as in international workshops.
+I advocate for application-oriented, interactive, and inclusive teaching formats with a clear focus on hands-on projects, as I believe this the best way to learn the concepts and methods taught thoroughly while allowing room for open discussions and close collaboration. This approach allows for honing the student’s skills to develop research questions, reflect on their sources, tools, and methods used and critically discuss their frame- works of production as well as of obtained resultls, and to contextualize these into broader domain-specific frameworks. This thus allows to develop and apply digital literacy and computational competencies early on as key skills of today’s humanities scholarship.
 
-## Teaching agend
+## Teaching Experiences
 
-Tbf
+I had teaching responsibilities for both entry- and advanced-level courses in analogue and in virtual formats in the B.Sc. "Political Science" program at Technical University of Munich (2017–2020) and in the M.A. "Digital Methods in the Humanities and Cultural Studies" program at Johannes Gutenberg University of Mainz (from 2022), as well as in various workshops for international and multilingual groups of students.
+
+
 
 
 ## Graduate courses
@@ -31,7 +33,7 @@ In this (fully online) [winter school](https://ieg-dhr.github.io/hnr-winterschoo
 
 In this advanced seminar (co-taught with [Dr. Demival Vasques Filho](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1)), we covered the fundamentals of natural language processing (NLP) utilizing [GitHub](https://github.com/) and [Jupyter Notebooks](https://jupyter.org). The course covered in hands-on exercises in text processing with base Python, identifying linguist patterns with [Python::SpaCy](https://spacy.io) including pattern matching, sentiment analysis, named entity recognition (NER), and topic modeling. In the course, we discussed how to reflect working with digital sources, and best practices in algorithmic criticism.
 
-In Winter Semester 2023/24 I taught this course on my own.
+In Winter Semester 2023/24 I taught this course on my own, and developed collaborative NLP research projects with the students on the [OpenDiscourse](https://opendiscourse.de) dataset featuring plenary protocols of the German Bundestag since 1949.
 
 ## Undergraduate courses
 
