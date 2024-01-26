@@ -4,7 +4,7 @@ subtitle: "Digital History, Historical Network Research, Text Analysis, Digital 
 ---
 
 I am a historian working at the intersection of the humanities and computer science. 
-My research interests center on computational methods and the epistemological implications of the digital. In my research, I reframe historical research questions with the means of computational and multi-methodological approaches, bridging quantitative, qualitative, digital, and computational methodologies, and critically reflect their application. I consider digital literacy and computational competencies, including statistics, data modeling, digital source criticism, and tool and algorithm criticism, as key skills of today’s humanities scholarship.
+My research interests center on computational methods and the epistemological implications of the digital. In more general terms, in my research, I reframe historical research questions with the means of computational and multi-methodological approaches, bridging quantitative, qualitative, digital, and computational methodologies, and critically reflect their application. I consider digital literacy and computational competencies, including statistics, data modeling, digital source criticism, and tool and algorithm criticism, as key skills of today’s humanities scholarship.
 
 In my current project as [postdoctoral researcher](https://www.ieg-mainz.de/en/institute/people/petz) at [Leibniz Institute of European History](https://www.ieg-mainz.de/), I examine historical court records computationally on the construction of political criminality, and the transformation of the former Austrian democracy to an autocracy (1933--38) in the field of digital legal history.
 

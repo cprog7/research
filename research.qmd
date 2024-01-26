@@ -46,13 +46,13 @@ Finally, in the paper I argue that the system of control over the judiciary and 
 
 
 ## Construction of political criminality
-**Tags:** NLP, Text Analysis, Statistics, OCR
+**Tags:** NLP, Text Analysis, Statistics, Machine Learning, OCR
 
 
-My current project extends on my previous work, and examines the various constructions of political criminality at court during the so-called "Corporate State" (1933/34--1938). There, I study the transformation from democracy to autocracy.
+My current project extends on my previous work, and examines the various constructions of political criminality at court during the Dollfuß-/Schuschnigg-Regime (1933/34--1938). There, I study the transformation from democracy to autocracy.
 I am examining e.g., linguistic strategies towards Social Democratic, Communist, and National Socialist suspects in the statements of police, prosecutors, and judges within the court proceedings. Questions of political and political-confessional marginalisation and (acceptable) deviancy at court will be of particular interest. 
 
-Methodologically, the project combines quantitative, computational, digital and qualitative methods in the sense of a multi-methodological embedded digital humanities framework. In this project, I am employing Optical Character recognition (OCR) as well as text and data mining methods (NLP and statistics) in Python in order to analyze court recrods from the years 1933--1938. The project thus contributes to the field of computational history. 
+Methodologically, the project combines quantitative, computational, digital and qualitative methods in the sense of a multi-methodological embedded Digital Humanities framework. In this project, I am employing Optical Character recognition (OCR) as well as text and data mining methods (Natural Language Processing, Statistics, and Machine Learning) in Python in order to analyze court records. The project thus contributes to the field of computational history. 
 
 This work is currently under progress.
 
