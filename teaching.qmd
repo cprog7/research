@@ -9,9 +9,19 @@ I advocate for application-oriented, interactive, and inclusive teaching formats
 I had teaching responsibilities for both entry- and advanced-level courses in on-site and in virtual formats in the B.Sc. "Political Science" program at Technical University of Munich (2017–2020) and in the M.A. "Digital Methods in the Humanities and Cultural Studies" program at Johannes Gutenberg University of Mainz (from 2022), as well as in various workshops for international and multilingual groups of students.
 
 
-
-
 ## Graduate courses
+
+### Approaches to Network Analysis
+
+**BYODL Workshop at IEG**, October 2024
+
+In this 2-day workshop of the [HERMES project](https://i3mainz.hs-mainz.de/projekte/hermes/), [Dr. Demival Vasques Filho](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1) and I presented practical case studies of utilizing network research for historical inquiry for a group of interdisciplinary researchers.
+
+### Network research theory & practice for studying the human past
+
+**Summer School at Barcelona University, ES**, June 2024
+
+In the 5-day long [Barcelona Past Networks Summer School](https://www.pastnetworks.net/), an international group of researchers based in Denmark, Suisse, Luxembourg, Germany, and Spain gave a thorough introduction of the use of network research to study the human past for an international and multidisciplinary group of graduate students. My talks focused on the epistemological implications as well as chances and pitfalls of historical network research.
 
 ### Network Analysis with Python and Jupyter Notebooks (and Quarto)
 
