@@ -11,28 +11,35 @@ I had teaching responsibilities for both entry- and advanced-level courses in on
 
 ## Graduate courses
 
-### Approaches to Network Analysis
+### Historical Network Analysis
 
-**BYODL Workshop at IEG**, October 2024
+**Bring Your Own Data Lab at IEG**, October 2024
 
-In this 2-day workshop of the [HERMES project](https://i3mainz.hs-mainz.de/projekte/hermes/), [Dr. Demival Vasques Filho](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1) and I presented practical case studies of utilizing network research for historical inquiry for a group of interdisciplinary researchers.
+<i class="ai ai-open-materials" role="img"></i> [Open Access Materials and Tutorials on GitHub](https://cprog7.github.io/HNR_workshops/) 
+
+In this 2-day workshop of the ["Exploring Connections" - Bring Your Own Data Lab by HERMES](https://hermes-hub.de/events/intern/byodlab20240917.html), I presented practical examples to historical network research using Python based on my own research, and an introduction the epistemological framework of modeling for a group of interdisciplinary researchers. I organized a poster session for the participants to conceptualize their own network research projects, and provided individual mentoring on their own datasets. 
+
 
 ### Network research theory & practice for studying the human past
 
 **Summer School at Barcelona University, ES**, June 2024
 
-In the 5-day long [Barcelona Past Networks Summer School](https://www.pastnetworks.net/), an international group of researchers based in Denmark, Suisse, Luxembourg, Germany, and Spain gave a thorough introduction of the use of network research to study the human past for an international and multidisciplinary group of graduate students. My talks focused on the epistemological implications as well as chances and pitfalls of historical network research.
+In the 5-day long [Barcelona Past Networks Summer School](https://www.pastnetworks.net/), an international group of researchers based in Denmark, Switzerland, Luxembourg, Germany, and Spain gave a thorough introduction of the use of network research to study the human past for an international and multidisciplinary group of graduate students. My talks focused on the epistemological implications as well as chances and pitfalls of historical network research.
 
 ### Network Analysis with Python and Jupyter Notebooks (and Quarto)
 
-**Pre-Conference Workshop at GrapHNR2023**, Summer 2023
+**Pre-Conference Workshop at GrapHNR2023**, July 2023
 
-In this [workshop](https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2023/programme#workshop-1) (assisted by [Prof. Dr. Aline Deicke](https://www.adwmainz.de/mitarbeiterinnen/profil/prof-dr-aline-deicke.html) and [Elena Suarez Cronauer](https://www.adwmainz.de/mitarbeiterinnen/profil/elena-suarez-cronauer.html)), we gave an introduction to network analysis creating networks in [Python::NetworkX](https://networkx.org) in [Jupyter Notebooks](https://jupyter.org), discussed best practices, and reflected critically on our methodology. Additionally, we introduced the pipeline [Quarto](https://quarto.org) and highlighted its use for publishing reproducible research.
+<i class="ai ai-open-materials" role="img"></i> [Open Access Tutorial on GitHub](https://github.com/ieg-dhr/graphnr-workshop-2023) 
+
+In this [workshop](https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2023/programme#workshop-1) (assisted by [Prof. Dr. Aline Deicke](https://www.adwmainz.de/mitarbeiterinnen/profil/prof-dr-aline-deicke.html) and [Elena Suarez Cronauer](https://www.adwmainz.de/mitarbeiterinnen/profil/elena-suarez-cronauer.html)), I gave an introduction to network analysis creating networks in [Python::NetworkX](https://networkx.org) in [Jupyter Notebooks](https://jupyter.org), discussed best practices, and reflected critically on network methodology. Additionally, I introduced the pipeline [Quarto](https://quarto.org) and highlighted its use for publishing reproducible research. 
 
 
 ### A beginner’s guide to historical network research
 
-**Winter School at IEG**, Winter 2022/23
+**Winter School at IEG**, November 2022 
+
+<i class="ai ai-open-materials" role="img"></i> [Open Access Tutorials on GitHub](https://github.com/ieg-dhr/hnr-winterschool-2022)
 
 In this (fully online) [winter school](https://ieg-dhr.github.io/hnr-winterschool/) (co-taught with [Dr. Demival Vasques Filho](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1)), we provided a guide for graduate students and early career researchers interested in the study of social networks with a special focus on historical research questions. This four day course covered the fundamentals of network analysis methods and their underlying theories, the history of historical network research, and covered pitfals in and potentials of network research for the historical studies. We offered hands-on exercises in Python using [Python::NetworkX](https://networkx.org) in [Jupyter Notebooks](https://jupyter.org). The winter school was complemented by talks by [Dr. Henrike Rudolph](https://www.sinologie-goettingen.de/seminar/person/dr-henrike-rudolph/) (GAU, GER) on research designs and [Dr. Martin Grandjean](https://www.martingrandjean.ch/) (UNIL, SUI) on network visualization. [Prof. Dr. David Zbíral](https://www.muni.cz/en/people/52251-david-zbiral) (MUNI, CZ) elaborated in a public keynote on his work in the [DISSINET](https://dissinet.cz/) project.
 
@@ -40,6 +47,8 @@ In this (fully online) [winter school](https://ieg-dhr.github.io/hnr-winterschoo
 ### Natural Language Processing
 
 **Seminar at JGU**, Winter 2022/23 and Winter 2023/24
+
+<i class="ai ai-open-materials" role="img"></i> [Open Access Materials for 2022/23 on GitHub](https://github.com/dvasques83/DMGK-NLP)
 
 In this advanced seminar (co-taught with [Dr. Demival Vasques Filho](https://scholar.google.com/citations?user=f8pD2ucAAAAJ&hl=en&authuser=1)), we covered the fundamentals of natural language processing (NLP) utilizing [GitHub](https://github.com/) and [Jupyter Notebooks](https://jupyter.org). The course covered in hands-on exercises in text processing with base Python, identifying linguist patterns with [Python::SpaCy](https://spacy.io) including pattern matching, sentiment analysis, named entity recognition (NER), and topic modeling. In the course, we discussed how to reflect working with digital sources, and best practices in algorithmic criticism.
 

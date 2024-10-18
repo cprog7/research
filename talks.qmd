@@ -16,7 +16,7 @@ November 14–15, 2024, Vienna, Austria. [Link to CfP.](https://www.hsozkult.de/
 
 05/2023 Historische Netzwerkforschung und ihre Potentiale, Invited Talk at Workshop “Forschungsstand und -perspektiven auf die Überlieferung des Vieweg-Verlags,” UB Braunschweig.
 
-04/2023 Network Models and Computational History. Analysing a Linked Open Data network, Invited Keynote at [PIMO COST Action Workshop “Conceptual and Social Networks for Movements of People across the Mediterranean Basin. Digital Methods and Application of Computational Tools and for Modelling, Analysis and Representation of Migration Phenomena,”](https://cji.uniri.hr/pimo/) Faculty of Humanities and Social Sciences, University of Rijeka, Croatia.
+04/2023 Network Models and Computational History. Analysing a Linked Open Data network, Invited Keynote aquat [PIMO COST Action Workshop “Conceptual and Social Networks for Movements of People across the Mediterranean Basin. Digital Methods and Application of Computational Tools and for Modelling, Analysis and Representation of Migration Phenomena,”](https://cji.uniri.hr/pimo/) Faculty of Humanities and Social Sciences, University of Rijeka, Croatia.
 
 11/2022 A (not so) short history of HNR. On the evolution of thinking about networks, [DH Lab Winter School “A beginner’s guide to historical network research,”](https://ieg-dhr.github.io/hnr-winterschool/) IEG Mainz (virtual).
 
