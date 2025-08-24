@@ -45,13 +45,13 @@ Finally, in the paper I argue that the system of control over the judiciary and 
 
 
 ## Construction of political criminality
-**Tags:** NLP, Text Analysis, Statistics, Machine Learning, OCR
+**Tags:** NLP, Text Mining, Data Analysis, Statistics, OCR, Machine Learning, LLMs
 
 
-My current project extends on my previous work, and examines the various constructions of political criminality at court during the Dollfuß-/Schuschnigg-Regime (1933/34--1938). There, I study the transformation from democracy to autocracy.
+My current Habilitation project at [Leibniz Institute of European History](https://www.ieg-mainz.de/en/institute/people/petz) extends on my previous work, and examines the various constructions of political criminality at court during the Dollfuß-/Schuschnigg-Regime (1933/34--1938) in order to trace the transformation of the former Austrian democracy to an autocracy.
 I am examining e.g., linguistic strategies towards Social Democratic, Communist, and National Socialist suspects in the statements of police, prosecutors, and judges within the court proceedings. Questions of political and political-confessional marginalisation and (acceptable) deviancy at court will be of particular interest. 
 
-Methodologically, the project combines quantitative, computational, digital and qualitative methods in the sense of a multi-methodological embedded Digital Humanities framework. In this project, I am employing Optical Character recognition (OCR) as well as text and data mining methods (Natural Language Processing, Statistics, and Machine Learning) in Python in order to analyze court records. The project thus contributes to the field of computational history. 
+Situated at the interdisciplinary crosspoint of computational history, legal history, and computer linguistics, in this project I am combining historical contextualization with methods from Natural Language Processing, Text and Data Mining methods, utilizing un-/supervised Machine Learning, and LLM-assisted information extraction and argument mining in Python to analyse court records from the 1930s.
 
 This work is currently under progress.
 

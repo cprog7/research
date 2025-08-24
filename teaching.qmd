@@ -6,10 +6,18 @@ I advocate for application-oriented, interactive, and inclusive teaching formats
 
 ## Teaching Experiences
 
-I had teaching responsibilities for both entry- and advanced-level courses in on-site and in virtual formats in the B.Sc. "Political Science" program at Technical University of Munich (2017–2020) and in the M.A. "Digital Methods in the Humanities and Cultural Studies" program at Johannes Gutenberg University of Mainz (from 2022), as well as in various workshops for international and multilingual groups of students.
+I had teaching responsibilities (est. 207 course hours) for both entry- and advanced-level courses in on-site and in virtual formats in the B.Sc. "Political Science" program at Technical University of Munich (2017–2020) and in the M.A. "Digital Methods in the Humanities and Cultural Studies" program at Johannes Gutenberg University of Mainz (from 2022), as well as in various workshops for international and multilingual groups of students.
 
 
 ## Graduate courses
+
+
+### Network research theory & practice for studying the human past
+
+**Summer School at Barcelona University, ES**, July 2025
+
+In the 4-full day [Barcelona Past Networks Summer School](https://www.pastnetworks.net/), an international group of researchers based in Denmark, Switzerland, Luxembourg, Germany, and Spain gave a thorough introduction of the use of network research to study the human past for an international and multidisciplinary group of graduate students. My talks focused on the epistemological implications as well as chances and pitfalls of historical network research, and a practical session on ``Designing your own Network Research Project".
+
 
 ### Historical Network Analysis
 
@@ -24,7 +32,8 @@ In this 2-day workshop of the ["Exploring Connections" - Bring Your Own Data Lab
 
 **Summer School at Barcelona University, ES**, June 2024
 
-In the 5-day long [Barcelona Past Networks Summer School](https://www.pastnetworks.net/), an international group of researchers based in Denmark, Switzerland, Luxembourg, Germany, and Spain gave a thorough introduction of the use of network research to study the human past for an international and multidisciplinary group of graduate students. My talks focused on the epistemological implications as well as chances and pitfalls of historical network research.
+In the 4 full-day long [Barcelona Past Networks Summer School](https://www.pastnetworks.net/), an international group of researchers based in Denmark, Switzerland, Luxembourg, Germany, and Spain gave a thorough introduction of the use of network research to study the human past for an international and multidisciplinary group of graduate students. My talks focused on the epistemological implications as well as chances and pitfalls of historical network research, and a practical session on ``Designing your own Network Research Project".
+
 
 ### Network Analysis with Python and Jupyter Notebooks (and Quarto)
 
@@ -54,7 +63,9 @@ In this advanced seminar (co-taught with [Dr. Demival Vasques Filho](https://sch
 
 In Winter Semester 2023/24 I taught this course on my own, and developed collaborative NLP research projects with the students on the [OpenDiscourse](https://opendiscourse.de) dataset featuring plenary protocols of the German Bundestag since 1949.
 
+
 ## Undergraduate courses
+
 
 ### Applied Text Analysis
 
@@ -62,17 +73,13 @@ In Winter Semester 2023/24 I taught this course on my own, and developed collabo
 
 In this advanced seminar (co-taught with [Dr. Mirco Schönfeld](https://mircoschoenfeld.de/)), we introduced text analysis methods  in hands-on exercises with [R](https://www.r-project.org/) and [R-Studio](https://posit.co/), covering named entity recognition, sentiment analysis, and topic modeling, and their critical application in [R::quanteda](http://quanteda.io/).
 
+
 ### Introduction to the Digital Humanities
 
 **Seminar at TUM**, Summer 2019, 2020
 
-In this entry-level seminar, I provided an introducting to the vast field of the Digital Humanities, covering the definition, digitization, digitalization, basics of text mining, network research and geographical analysis, digital source criticism and data in the humanities, digital literacy, and algorithm criticism.
+In this entry-level seminar, I introduced to the vast field of the Digital Humanities, covering the definition, digitization, digitalization, basics of text mining, network research and geographical analysis, digital source criticism and data in the humanities, digital literacy, and algorithm criticism.
 
-### Computational Social Science
-
-**Guest Lectures at TUM**, Winter 2018/19, 2019/20
-
-In this advanced seminar, I taught in guest-lectures on the topic of qualitative text analysis and the hermeneutics of analogue and digital source criticism.
 
 ### Complex Methods
 
@@ -80,17 +87,20 @@ In this advanced seminar, I taught in guest-lectures on the topic of qualitative
 
 In this advanced exercise courses, I taught hands-on exercises in complex methods with [R](https://www.r-project.org/) and [R-Studio](https://posit.co/) covering the fundamentals in network research, diffusion models, and simulation.
 
+
 ### Methods of Empirical Social Science
 
 **Lecture at TUM**, Winter 2019/20
 
 In this entry-level lecture (co-taught with [Prof. Dr. Jürgen Pfeffer](http://www.pfeffer.at)), we provided fundamental insights on empirical social science, covering qualitative methodologies, survey and interview methods, experiments, and the fundamentals of statistics such as statistical significance, t.tests, standard deviations, correlation, and regression.
 
+
 ### Methods of Empirical Social Science
 
 **Exercise Course at TUM**, Winter 2017/18, 2018/19, 2019/20, Summer 2018, 2019
 
 In this entry-level exercise courses, I taught the fundamentals of empirical social science in hands-on exercises in [R](https://www.r-project.org/) and [R-Studio](https://posit.co/) correspondening to the contents of the lecture including visualization techniques introduced in [R::ggplot2](https://ggplot2.tidyverse.org/) and the [R::Shiny](https://shiny.rstudio.com/) application.
+
 
 ### Programming in R for Social Scientists
 

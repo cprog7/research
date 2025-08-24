@@ -16,5 +16,8 @@
   },
   "talks.qmd": {
     "talks.html": "223fa435"
+  },
+  "publications.qmd": {
+    "publications.html": "cb2e31e8"
   }
 }

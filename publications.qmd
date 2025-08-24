@@ -1,0 +1,75 @@
+## Monographs
+
+On Combining Network Research and Computational Methods on Historical Research Questions and its Implications for the Digital Humanities, **Petz, Cindarella**. Dissertation at the Technical University of Munich, 2022. [URN: urn:nbn:de:bvb:91-diss-20220202-1624881-1-5](https://nbn-resolving.org/urn:nbn:de:bvb:91-diss-20220202-1624881-1-5).
+
+## Editorships
+
+
+(Under preparation.) KI in den Geisteswissenschaften, Bruenning, Gerrit, Oberbichler, Sarah, **Petz, Cindarella**, & Schwarz, Pia. Workshop-Proceedings of KI Workshop 2024, Zeitschrift für Digitale Geisteswissenschaften, est. 2026.
+
+(Forthcoming.) Graphs and Networks in the fourth dimension – time and temporality as categories of connectedness. **Petz, Cindarella**, Deicke, Aline, & Jarosch, Julian (Eds.) Proceedings of GrapHNR 2023. Special Issue at Journal of Historical Network Research, est. 2025.
+
+## Peer-reviewed Journal Articles
+
+(Under preparation.) Political-religious legal prosecution during the Dollfuß-/Schuschnigg-Regime, **Petz, Cindarella**. Journal of Digital Legal History, est. 2026.
+
+Tracking the Evolution of Communities in a Social Network of Intellectual Influences, **Petz, Cindarella**, Ghawi, Raji, & Pfeffer, Jürgen. Journal of Historical Network Research 2022, vol. 7, number 1, pp. 114--154, 2022. [DOI: 10.25517/jhnr.v7i1.146](https://doi.org/10.25517/jhnr.v7i1.146).
+
+Configuration to Conviction. Network Structures of Political Judiciary in the Austrian Corporate State, **Petz, Cindarella**, & Pfeffer, Jürgen. Social Networks, vol. 66, pp. 185--201, July 2021. [DOI: 10.1016/j.socnet.2021.03.001](https://doi.org/10.1016/j.socnet.2021.03.001). (Recommended for 2022 INSNA Best Student Paper Award.)
+
+Diffusion Dynamics of Influence in a Social Network of Intellectuals, Ghawi, Raji, **Petz, Cindarella**, & Pfeffer, Jürgen. Social Network Analysis and Mining, vol. 11 (63), 2021. [DOI:  10.1007/s13278-021-00771-x](https://doi.org/10.1007/s13278-021-00771-x).
+
+A Longitudinal Analysis of a Social Network of Intellectual Influence, **Petz, Cindarella**, Ghawi, Raji, & Pfeffer, Jürgen.  IEEE/ACM International Conference on Advances in Social Network Analysis and Mining (ASONAM), The Hague, Netherlands, pp. 340--347, 2020. [DOI:  10.1109/ASONAM49781.2020.9381318](https://doi.org/10.1109/ASONAM49781.2020.9381318). (Preprint: [arXiv:2009.03604 [cs.SI]](https://arxiv.org/abs/2009.03604).)
+
+'On the Shoulders of Giants', Analysis of a Social Network of Intellectual Influence,  Ghawi, Raji, **Petz, Cindarella**, & Pfeffer, Jürgen. Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), Granada, Spain, pp. 248--255, 2019. [DOI:  10.1109/SNAMS.2019.8931821](https://doi.org/10.1109/SNAMS.2019.8931821).(Recommended for SNAMS Best Paper Award.) 
+
+
+## Chapter in Edited Volumes
+
+(Forthcoming.) Foreword -- Time and Temporality in Historical Network Research. **Petz, Cindarella** & Deicke, Aline. In: Petz, Cindarella, Deicke, Aline, & Jarosch, Julian (Eds.): Graphs and Networks in the fourth dimension – time and temporality as categories of connectedness. Proceedings of GrapHNR 2023. Special Issue at Journal of Historical Network Research, est. 2025.
+
+(Forthcoming.) Lili Körbers ''Eine Jüdin erlebt das neue Deutschland'': Zensur und Strafverfolgung im  ''Austrofaschismus,'' **Petz, Cindarella**, In: ''Widerständiges Schreiben. Lili Körber -- Literatur, Politik und Exil'' Conference of Österreichische Exilbibliothek at Literaturhaus Wien and Käte Hamburger Kolleg ''global dis:connect'' (LMU Munich), November 14--15, 2024, Vienna, AT, est. 2025.
+
+Zur Geschichte der Historischen Netzwerkforschung, **Petz, Cindarella**. In: Stegbauer, Christian, & Häußling, Roger (Eds.): Handbuch Netzwerkforschung. Springer VS, Wiesbaden. 2\textsuperscript{nd} edition. pp. 937--51, 2025. [DOI: 10.1007/978-3-658-37507-2\_80-1](https://doi.org/10.1007/978-3-658-37507-2_80-1).
+
+Algorithmenkritik, Althage, Melanie, Deicke, Aline, Hall, Mark, Möbus, Dennis, **Petz, Cindarella**, & Seltmann, Melanie.<sup>Equal contribution. Authors in Alphabetical Order</sup> In: Lemaire, Marine, Deicke, Aline, Schmunk, Stefan, & Geiger, Jonathan (Eds.): Living Handbook ''Digitale Quellenkritik''. Proceedings of the vDHd2021-Workshopseries ''Digitale Quellenkritik: Ein neues Kapitel.'' Zenodo, Version v.2, 2024. [DOI: 10.5281/zenodo.12648832](https://zenodo.org/records/12683044).
+
+Between Tartan and Tallit? On Zionism in Scotland, **Petz, Cindarella**. In: Collins, K., Newman, A., & Wasserstein, B. (Eds.): Two Hundred Years of Scottish Jewry. Scottish Jewish Archives Committee Glasgow 2018, pp. 239--262, (2018). ISBN: 978-1-9999178-0-7.
+
+
+## Proceeding papers
+
+Evaluating bias within an epistemological framework for AI-based research in the humanities, Oberbichler, Sarah, & **Petz, Cindarella**, In: Rebora, Simone, Rospocher, Marco, & Bazzaco, Stefano (Ed.) Diversità, Equità e Inclusione: Sfide e Opportunità per l’Informatica Umanistica nell’Era dell’Intelligenza Artificiale, Proceedings del XIV Convegno Annuale AIUCD2025. Verona: AIUCD, 2025. [DOI: 10.6092/unibo/amsacta/8380](https://doi.org/10.6092/unibo/amsacta/8380).
+
+Becoming the digital humanities as discourse(s) of subjectivation, **Petz, Cindarella**. Digital Humanities ''Collaboration as Opportunity'' (DH2023), Graz, Austria. Zenodo, Version v.1, 2023. [DOI: 10.5281/zenodo.8107606](https://doi.org/10.5281/zenodo.8107606).
+
+
+## Working papers, magazine articles, and blog posts
+
+From Access to Ethics. Data Discussions at the DH2025 Conference in Lisbon, Baroncini, Sophia, Buyken, Constanze, Garzón Rodríguez, Judith, Marino, Ian Kisil, Oberbichler, Sarah, & **Petz, Cindarella**. Blogpost in Digital Humanities Lab, August 01, 2025. [https://dhlab.hypotheses.org/7355](https://dhlab.hypotheses.org/7355).
+
+Working Paper: Implementing Generative AI in the Historical Studies, Oberbichler, Sarah, & **Petz, Cindarella**<sup>Equal contribution. Authors in Alphabetical Order</sup> Zenodo, Version v.1, 2025. [https://doi.org/10.5281/zenodo.14924737](DOI: 10.5281/zenodo.14924737).
+
+''Should I do network analysis?'' -- Reflections on the Barcelona Past Networks Summer School 2024, **Petz, Cindarella**. Blogpost in Digital Humanities Lab, July 12, 2024. [https://dhlab.hypotheses.org/5281](https://dhlab.hypotheses.org/5281).
+
+Die Werte der Digital Humanities in ihren Institutionen, Cremer, Fabian, **Petz, Cindarella**, Wendel, Teresa, & Wübbena, Thorsten. Blogpost in Digital Humanities Lab, Feb 02, 2024. [https://dhlab.hypotheses.org/?p=4486](https://dhlab.hypotheses.org/4486).
+
+Politische Justiz, Autokratie und die Digital Humanities. Digitale historische Forschung am Beispiel des Dollfuß-/Schuschnigg-Regimes in Österreich (1933/34–38), **Petz, Cindarella**. ReThinking Law 4, pp. 9--12, 2024. 
+
+A (not so) short history of historical network research, **Petz, Cindarella**. Blogpost series in Digital Humanities Lab Blog.
+Part 1, July 01, 2022. [https://dhlab.hypotheses.org/3126](https://dhlab.hypotheses.org/3126).
+Part 2, July 28, 2022. [https://dhlab.hypotheses.org/3184](https://dhlab.hypotheses.org/3184).
+Part 3, Sept 09, 2022. [https://dhlab.hypotheses.org/3194](https://dhlab.hypotheses.org/3194).
+
+Seasons of Green DH and Thirsty Computing, **Petz, Cindarella**. Blogpost in Digital Humanities Lab Blog, Dec 15, 2023. [https://dhlab.hypotheses.org/4273](https://dhlab.hypotheses.org/4273).
+
+## Published Jupyter Notebooks
+
+Open Access Materials and Jupyter Notebook Tutorials for HERMES BYODL ''Exploring Connections''. cprog7/HNR\_workshops, **Petz, Cindarella**. Zenodo, Version v.1, (2024). [https://doi.org/10.5281/zenodo.13951601](DOI: 10.5281/zenodo.13951601).
+
+Open Access Materials and Jupyter Notebook Tutorials for ''Network Analysis with Python and Jupyter Notebooks (and Quarto)'', **Petz, Cindarella**. Pre-Conference Workshop at [GrapHNR Conference 2023](https://graphentechnologien.hypotheses.org/tagungen/graphentechnologien-2023/programme\#workshop-1), July 18, 2023, IEG Mainz. [https://github.com/ieg-dhr/graphnr-workshop-2023](https://github.com/ieg-dhr/graphnr-workshop-2023).
+
+Open Access Materials and Jupyter Notebook Tutorials for DH Lab's HNR Winter School ''A beginner's guide to historical network research,'' Vasques Filho, Demival & **Petz, Cindarella**, 2022. [https://github.com/ieg-dhr/hnr-winterschool-2022](https://github.com/ieg-dhr/hnr-winterschool-2022).
+
+Open Access Materials and Jupyter Notebook Tutorials for ''Natural Language Processing'' Seminary at JGU, WiSe 2022/2023, Vasques Filho, Demival & **Petz, Cindarella**, 2022. [https://github.com/dvasques83/DMGK-NLP](https://github.com/dvasques83/DMGK-NLP).
+
