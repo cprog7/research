@@ -4,14 +4,15 @@ On Combining Network Research and Computational Methods on Historical Research Q
 
 ## Editorships
 
+(Under preparation.) (Generative) KI für Kultur- und Textdaten, Bruenning, Gerrit, Oberbichler, Sarah, **Petz, Cindarella**, & Schwarz, Pia (Eds.). Special Issue at Zeitschrift für Digitale Geisteswissenschaften, est. 2026.
 
-(Under preparation.) KI in den Geisteswissenschaften, Bruenning, Gerrit, Oberbichler, Sarah, **Petz, Cindarella**, & Schwarz, Pia. Workshop-Proceedings of KI Workshop 2024, Zeitschrift für Digitale Geisteswissenschaften, est. 2026.
-
-(Forthcoming.) Graphs and Networks in the fourth dimension – time and temporality as categories of connectedness. **Petz, Cindarella**, Deicke, Aline, & Jarosch, Julian (Eds.) Proceedings of GrapHNR 2023. Special Issue at Journal of Historical Network Research, est. 2025.
+Time and temporality as categories of connectedness. **Petz, Cindarella**, Deicke, Aline, & Jarosch, Julian (Eds.) Proceedings of GrapHNR 2023. Special Issue at Journal of Historical Network Research, 2025.
 
 ## Peer-reviewed Journal Articles
 
 (Under preparation.) Political-religious legal prosecution during the Dollfuß-/Schuschnigg-Regime, **Petz, Cindarella**. Journal of Digital Legal History, est. 2026.
+
+(Under preparation.) LLMs and Historical Research in Practice: Implementation, Evaluation and Critical Assessment, Oberbichler, Sarah, **Petz, Cindarella***, & Finn, Finola. In: Bruenning, Gerrit, Oberbichler, Sarah, Petz, Cindarella, & Schwarz, Pia (Eds.). (Generative) KI für Kultur- und Textdaten, Special Issue at Zeitschrift für Digitale Geisteswissenschaften, est. 2026.
 
 Tracking the Evolution of Communities in a Social Network of Intellectual Influences, **Petz, Cindarella**, Ghawi, Raji, & Pfeffer, Jürgen. Journal of Historical Network Research 2022, vol. 7, number 1, pp. 114--154, 2022. [DOI: 10.25517/jhnr.v7i1.146](https://doi.org/10.25517/jhnr.v7i1.146).
 
@@ -23,12 +24,13 @@ A Longitudinal Analysis of a Social Network of Intellectual Influence, **Petz, C
 
 'On the Shoulders of Giants', Analysis of a Social Network of Intellectual Influence,  Ghawi, Raji, **Petz, Cindarella**, & Pfeffer, Jürgen. Sixth International Conference on Social Networks Analysis, Management and Security (SNAMS), Granada, Spain, pp. 248--255, 2019. [DOI:  10.1109/SNAMS.2019.8931821](https://doi.org/10.1109/SNAMS.2019.8931821).(Recommended for SNAMS Best Paper Award.) 
 
-
 ## Chapter in Edited Volumes
 
-(Forthcoming.) Foreword -- Time and Temporality in Historical Network Research. **Petz, Cindarella** & Deicke, Aline. In: Petz, Cindarella, Deicke, Aline, & Jarosch, Julian (Eds.): Graphs and Networks in the fourth dimension – time and temporality as categories of connectedness. Proceedings of GrapHNR 2023. Special Issue at Journal of Historical Network Research, est. 2025.
+(Under preparation.) Algorithm Criticism as part of Historical Data Literacy, \textbf{Petz, Cindarella} \& Oberbichler, Sarah in: Fickers, Andreas (Ed.): Handbuch Historische Prop\"adeutik im Digitalen Zeitalter, est. 2026.
 
-(Forthcoming.) Lili Körbers ''Eine Jüdin erlebt das neue Deutschland'': Zensur und Strafverfolgung im  ''Austrofaschismus,'' **Petz, Cindarella**, In: ''Widerständiges Schreiben. Lili Körber -- Literatur, Politik und Exil'' Conference of Österreichische Exilbibliothek at Literaturhaus Wien and Käte Hamburger Kolleg ''global dis:connect'' (LMU Munich), November 14--15, 2024, Vienna, AT, est. 2025.
+(Forthcoming.) Lili Körbers ''Eine Jüdin erlebt das neue Deutschland'': Zensur und Strafverfolgung im  Dollfuß-/Schuschnigg-Regime, **Petz, Cindarella**, In: ''Widerständiges Schreiben. Lili Körber -- Literatur, Politik und Exil'' Conference of Österreichische Exilbibliothek at Literaturhaus Wien and Käte Hamburger Kolleg ''global dis:connect'' (LMU Munich), November 14--15, 2024, Vienna, AT, est. 2026.
+
+Foreword. Time and Temporality in Historical Network Research. **Petz, Cindarella** & Deicke, Aline. In: Petz, Cindarella, Deicke, Aline, & Jarosch, Julian (Eds.): Time and temporality as categories of connectedness. Proceedings of GrapHNR 2023. Special Issue at Journal of Historical Network Research, 2025. [DOI: 10.25517/jhnr.v12i1.122](https://doi.org/10.25517/jhnr.v12i1.122).
 
 Zur Geschichte der Historischen Netzwerkforschung, **Petz, Cindarella**. In: Stegbauer, Christian, & Häußling, Roger (Eds.): Handbuch Netzwerkforschung. Springer VS, Wiesbaden. 2\textsuperscript{nd} edition. pp. 937--51, 2025. [DOI: 10.1007/978-3-658-37507-2\_80-1](https://doi.org/10.1007/978-3-658-37507-2_80-1).
 
@@ -36,19 +38,25 @@ Algorithmenkritik, Althage, Melanie, Deicke, Aline, Hall, Mark, Möbus, Dennis, 
 
 Between Tartan and Tallit? On Zionism in Scotland, **Petz, Cindarella**. In: Collins, K., Newman, A., & Wasserstein, B. (Eds.): Two Hundred Years of Scottish Jewry. Scottish Jewish Archives Committee Glasgow 2018, pp. 239--262, (2018). ISBN: 978-1-9999178-0-7.
 
+## Proceeding Papers
 
-## Proceeding papers
+(Forthcoming.) Network Science Education for the Humanities: the Barcelona Past Networks Summer School, Mazzamuro, Matteo,  Brughmans, Tom, Diaz Guilera, Albert, Düring, Marten, Grandjean, Martin, Lozano, Sergi, **Petz, Cindarella**, Prignano, Luce, & Masood, Anum. In: Proceedings of EDUCON2026.
 
-Evaluating bias within an epistemological framework for AI-based research in the humanities, Oberbichler, Sarah, & **Petz, Cindarella**, In: Rebora, Simone, Rospocher, Marco, & Bazzaco, Stefano (Ed.) Diversità, Equità e Inclusione: Sfide e Opportunità per l’Informatica Umanistica nell’Era dell’Intelligenza Artificiale, Proceedings del XIV Convegno Annuale AIUCD2025. Verona: AIUCD, 2025. [DOI: 10.6092/unibo/amsacta/8380](https://doi.org/10.6092/unibo/amsacta/8380).
+(Forthcoming.) LLMs as Analysis Tool: A Framework for Implementation, Evaluation and Critical Assessment, Oberbichler, Sarah, & **Petz, Cindarella**<sup>Equal contribution. Authors in Alphabetical Order</sup>, In: Proceedings of DH2025, Lisbon, Portugal.
+
+Evaluating bias within an epistemological framework for AI-based research in the humanities, Oberbichler, Sarah, & **Petz, Cindarella**<sup>Equal contribution. Authors in Alphabetical Order</sup> , In: Rebora, Simone, Rospocher, Marco, & Bazzaco, Stefano (Ed.) Diversità, Equità e Inclusione: Sfide e Opportunità per l’Informatica Umanistica nell’Era dell’Intelligenza Artificiale, Proceedings del XIV Convegno Annuale AIUCD2025. Verona: AIUCD, 2025. [DOI: 10.6092/unibo/amsacta/8380](https://doi.org/10.6092/unibo/amsacta/8380).
 
 Becoming the digital humanities as discourse(s) of subjectivation, **Petz, Cindarella**. Digital Humanities ''Collaboration as Opportunity'' (DH2023), Graz, Austria. Zenodo, Version v.1, 2023. [DOI: 10.5281/zenodo.8107606](https://doi.org/10.5281/zenodo.8107606).
 
-
-## Working papers, magazine articles, and blog posts
-
-From Access to Ethics. Data Discussions at the DH2025 Conference in Lisbon, Baroncini, Sophia, Buyken, Constanze, Garzón Rodríguez, Judith, Marino, Ian Kisil, Oberbichler, Sarah, & **Petz, Cindarella**. Blogpost in Digital Humanities Lab, August 01, 2025. [https://dhlab.hypotheses.org/7355](https://dhlab.hypotheses.org/7355).
+## Working papers
 
 Working Paper: Implementing Generative AI in the Historical Studies, Oberbichler, Sarah, & **Petz, Cindarella**<sup>Equal contribution. Authors in Alphabetical Order</sup> Zenodo, Version v.1, 2025. [https://doi.org/10.5281/zenodo.14924737](DOI: 10.5281/zenodo.14924737).
+
+## Magazine articles and Blog Posts
+
+Data Ethics in Historical Research: Recognizing Responsibility. Baroncini, Sophia, Buyken, Constanze, Marino, Ian Kisil, Oberbichler, Sarah, **Petz, Cindarella**, Suárez Cronauer, Elena, & Wübenna, Thorsten. Blogpost in Digital Humanities Lab, Dec 12, 2025. [https://dhlab.hypotheses.org/4718](https://dhlab.hypotheses.org/4718).
+
+From Access to Ethics. Data Discussions at the DH2025 Conference in Lisbon, Baroncini, Sophia, Buyken, Constanze, Garzón Rodríguez, Judith, Marino, Ian Kisil, Oberbichler, Sarah, & **Petz, Cindarella**. Blogpost in Digital Humanities Lab, August 01, 2025. [https://dhlab.hypotheses.org/7355](https://dhlab.hypotheses.org/7355).
 
 ''Should I do network analysis?'' -- Reflections on the Barcelona Past Networks Summer School 2024, **Petz, Cindarella**. Blogpost in Digital Humanities Lab, July 12, 2024. [https://dhlab.hypotheses.org/5281](https://dhlab.hypotheses.org/5281).
 
